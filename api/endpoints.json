@@ -428,6 +428,56 @@
       "status": "Active",
       "path": "/imagecreator/text2anime?apikey=&text=&ratio="
     }
+    {
+  "maker": [
+    {
+      "name": "Emoji to PNG",
+      "desc": "Convert emoji to PNG image",
+      "status": "Active",
+      "path": "/maker/emoji2png?apikey=&text="
+    },
+    {
+      "name": "Nulis",
+      "desc": "Generate handwritten text image",
+      "status": "Active",
+      "path": "/maker/nulis?apikey=&text="
+    },
+    {
+      "name": "Dadu",
+      "desc": "Generate dice image",
+      "status": "Active",
+      "path": "/maker/dadu"
+    },
+    {
+      "name": "TTP",
+      "desc": "Text to sticker PNG",
+      "status": "Active",
+      "path": "/maker/ttp?apikey=&text="
+    },
+    {
+      "name": "ATTP",
+      "desc": "Animated text to PNG",
+      "status": "Active",
+      "path": "/maker/attp?apikey=&text="
+    },
+    {
+      "name": "Harta Tahta",
+      "desc": "Generate Harta Tahta image",
+      "status": "Active",
+      "path": "/maker/harta-tahta?apikey=&text="
+    },
+    {
+      "name": "Skatch",
+      "desc": "Sketch effect image",
+      "status": "Active",
+      "path": "/maker/skatch?apikey=&url="
+    },
+    {
+      "name": "Tololserti",
+      "desc": "Tololserti image generator",
+      "status": "Active",
+      "path": "/maker/tololserti?apikey=&text="
+    }
   ],
   "api": [
     {
