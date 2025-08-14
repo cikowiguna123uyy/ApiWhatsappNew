@@ -449,17 +449,11 @@
       "path": "/maker/dadu"
     },
     {
-      "name": "TTP",
-      "desc": "Text to sticker PNG",
-      "status": "Active",
-      "path": "/maker/ttp?apikey=&text="
-    },
-    {
       "name": "ATTP",
-      "desc": "Animated text to PNG",
+      "desc": "Text to PNG",
       "status": "Active",
       "path": "/maker/attp?apikey=&text="
-    },
+    }, 
     {
       "name": "Harta Tahta",
       "desc": "Generate Harta Tahta image",
